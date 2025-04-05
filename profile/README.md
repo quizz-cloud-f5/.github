@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🎓 Bienvenidos a **quizF5**
 
-<!--
+**quizF5** es una iniciativa educativa centrada en el desarrollo backend realista, buenas prácticas de programación y simulación de entornos profesionales.  
+Nuestra misión es ayudar a estudiantes y desarrolladores a adquirir experiencia práctica construyendo proyectos con calidad de software.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👥 Comunidad
+
+> Estamos formando desarrolladores preparados para equipos profesionales.  
+Síguenos, aprende con nosotros y colabora para mejorar cada día.
+
+---
